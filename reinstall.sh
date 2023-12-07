@@ -3,7 +3,7 @@
 
 set -eE
 confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
-github_proxy=https://ghps.cc
+github_proxy=https://git.886.be
 
 this_script=$(realpath "$0")
 trap 'trap_err $LINENO $?' ERR
