@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
-set confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
+set confhome=https://raw.githubusercontent.com/transnull/reinstall/main
 set github_proxy=https://git.886.be
 
 :: Windows 7 SP1 winhttp 默认不支持 tls 1.2
